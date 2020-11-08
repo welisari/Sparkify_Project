@@ -1,4 +1,4 @@
-# Capstone-Project
+# Data Scientist Capstone Project
 This is my Capstone project which is a part of the Data Scientist Nanodegree Program by Udacity. 
 
 
