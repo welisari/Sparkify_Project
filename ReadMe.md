@@ -41,9 +41,9 @@ Required packages:
 + Matplotlib
 + Seaborn  
 
-## 5. Results <a name="Results"></a>
+## Results <a name="Results"></a>
 The final churn prediction model gets the F-1 score of 85% and Accuracy of 87%.
 The report of the this project is presented in this blog post [....](https:...).
 
-## 6. Acknowledgements <a name="ack"></a>
-The 'medium-sparkify-event-data.json' dataset has been provided by  ([Udacity](https://www.udacity.com/)
+## Acknowledgements <a name="ack"></a>
+The 'mini-sparkify-event-data.json' dataset has been provided by  ([Udacity](https://www.udacity.com/)
