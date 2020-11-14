@@ -4,16 +4,16 @@ This is my Capstone project which is a part of the Data Scientist Nanodegree Pro
 
 ## Project Structure
 ------
-1. [Overview](#Overview)
-2. [Project Statement](#ProjectStatement)
-3. [Metrics](#Metrics)
-4. [Results](#Results)
-5. [Installation](#Installation)
-6. [Acknowledgements](#ack)
+* [Overview](#Overview)
+* [Project Statement](#ProjectStatement)
+* [Metrics](#Metrics)
+* [Results](#Results)
+* [Installation](#Installation)
+* [Acknowledgements](#ack)
 
 ------
 ## Overview <a name="Overview"></a> 
-It is basically about a fictional music streaming company called Sparkify, similar to companies like Spotify. We go through the working on a sample dataset of Sparkify users 
+It is basically about a syntehtic music streaming company called Sparkify, similar to companies like Spotify. We go through the working on a sample dataset of Sparkify users 
 to analyse relevant fetures for predictiong customer churn and build and evaluate machine learning models using Apache Spark's PySpark API and PySpark ML libraries.
 
 ## Project Statement <a name="ProjectStatement"></a> 
@@ -26,7 +26,7 @@ build an end-to-end prediction model of churn users of the interested music appl
 - Present the results in a report in Medium blog post [this post](https://medium.com/@velisari/sparkify-user-churn-prediction-6c727699cac4)
 
 ## Evaluation
-1. **F-1 score** is a measure of a test's accuracy. It considers both the precision p and recall r of the test to compute the score. This traditional F-measure or balanced F-score is the harmonic mean of precision and recall. F-1 = 2 x (precision x recall) / (precision + recall)
+1. **F-1 score** is a measure of a test's accuracy. It considers both the precision p and recall r of the test to compute the score. F-1 = 2 x (precision x recall) / (precision + recall)
 2. **Accuracy** is a common metric for binary classifiers; it takes into account both true positives and true negatives with equal weight: accuracy = (true_positive + true_negatives)/dataset_size.
 
 ## Results <a name="Results"></a>
