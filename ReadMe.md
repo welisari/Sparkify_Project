@@ -30,7 +30,7 @@ build an end-to-end prediction model of churn users of the interested music appl
 2. **Accuracy** is a common metric for binary classifiers; it takes into account both true positives and true negatives with equal weight: accuracy = (true_positive + true_negatives)/dataset_size.
 
 ## Results <a name="Results"></a>
-The final churn prediction model gets the F-1 score of 85% and Accuracy of 87%.
+The final churn prediction model gets the F-1 score of 82% and Accuracy of 85%.
 The report of the this project is presented in this blog post [User Churn Prediction for a Digital Music Service Using PySpark](https://medium.com/@velisari/sparkify-user-churn-prediction-6c727699cac4).
 
 ## Installation <a name="Installation"></a>
